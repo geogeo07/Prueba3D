@@ -9,7 +9,7 @@ using System.Net.Sockets;
 using System.Threading;
 using System.Text;
 using System.Windows;
-using ZXing;
+//using ZXing;
 
 public class SplashSocket : MonoBehaviour
 {
@@ -20,7 +20,7 @@ public class SplashSocket : MonoBehaviour
     static byte[] msgByte;
 
     
-    //Prueba de cambios en el reposi
+    //Prueba de cambios en el repositorio a ver si si funciona..
 
 
 
