@@ -20,7 +20,7 @@ public class SplashSocket : MonoBehaviour
     static byte[] msgByte;
 
     
-    //Prueba de cambios en el repositorio.
+    //Prueba de cambios en el reposi
 
 
 
