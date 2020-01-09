@@ -9,7 +9,7 @@ using System.Net.Sockets;
 using System.Threading;
 using System.Text;
 using System.Windows;
-//using ZXing;
+using ZXing;
 
 public class SplashSocket : MonoBehaviour
 {
